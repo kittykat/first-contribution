@@ -25,7 +25,7 @@
 
 \mode<presentation>
 {
-  \usetheme{Warsaw}
+  \usetheme{Frankfurt}
   % or ...
 
   \setbeamercovered{transparent}
@@ -51,7 +51,7 @@
 %\subtitle
 %{Include Only If Paper Has a Subtitle}
 
-\author[Kat, Sindhu S] % (optional, use only with lots of authors)
+\author
 {Ekaterina Gerasimova, \texttt{kittykat3756@gmail.com} \and \\Sindhu S, \texttt{email@example.com}}
 % - Give the names in the same order as the appear in the paper.
 % - Use the \inst{?} command only if the authors have different
@@ -85,8 +85,8 @@
 % is a graphic format that can be processed by latex or pdflatex,
 % resp., then you can add a logo as follows:
 
-% \pgfdeclareimage[height=0.5cm]{university-logo}{university-logo-filename}
-% \logo{\pgfuseimage{university-logo}}
+\pgfdeclareimage[height=1cm]{university-logo}{guadec.pdf}
+\logo{\pgfuseimage{university-logo}}
 
 
 
@@ -135,21 +135,17 @@
 % - If you omit details that are vital to the proof/implementation,
 %   just say so once. Everybody will be happy with that.
 
-\section{Motivation}
+\section{How does it work?}
 
-\subsection{The Basic Problem That We Studied}
+\subsection{Why are you here?}
 
 \begin{frame}{Why are you here?}%{Subtitles are optional.}
-  % - A title should summarize the slide in an understandable fashion
-  %   for anyone how does not follow everything on the slide itself.
-
-  % TODO: insert bad flowchart
-  If you think the first step towards contributing is sending in a patch, you're probably wrong.
-
+  \pgfdeclareimage[height=4.5cm]{bad-flowchart}{bad-flowchart.pdf}
+  \center{\pgfuseimage{bad-flowchart}}
+  % If you think the first step towards contributing is sending in a patch, you're probably wrong.
 \end{frame}
 
 \begin{frame}{It's all about the people}
-
   \begin{itemize}
   \item
     Talk to people\ldots
@@ -168,46 +164,72 @@
   \end{itemize}
 \end{frame}
 
-
-\subsection{Previous Work}
-
 \begin{frame}{Code of conduct}
-  % TODO: https://wiki.gnome.org/CodeOfConduct/
-  Assume people mean well.
+  \begin{itemize}
+  \item
+    Assume people mean well
+  \item
+    Try to be concise
+  \item
+    Be patient and generous
+  \item
+    Be respectful and considerate
+  \end{itemize}
 \end{frame}
 
 \begin{frame}{Workflow}
+  \begin{itemize}
+  \item
+    Bugzilla?
+  \item
+  \item
+  \item
+  \end{itemize}
 \end{frame}
 
 \begin{frame}{Followup}
+  \begin{itemize}
+  \item
+    Be patient
+  \item
+    Follow up with the reviewer
+  \item
+    Follow up on the review
+  \end{itemize}
 \end{frame}
 
-
-\section{Our Results/Contribution}
-
-\subsection{Main Results}
-
-\begin{frame}{Build}
+\begin{frame}{Make good contributions}
+  \begin{itemize}
+  \item
+    
+  \item
+  \end{itemize}
 \end{frame}
 
-\begin{frame}{QA}
+\begin{frame}{How things happen}
 \end{frame}
 
 \begin{frame}{Experience}
+  \begin{itemize}
+  \item
+    The more you contribute, the more you communicate with people
+  \item
+    The more you communicate, the more you become part of the community
+  \item
+    Once you are part of the community, you can become a Foundation member
+  \end{itemize} 
 \end{frame}
 
 
-\subsection{Basic Ideas for Proofs/Implementation}
+\section{The reality}
 
-\begin{frame}{Community}
+\subsection{need title}
+
+\begin{frame}{Sindhu's slide 1}
 \end{frame}
 
-\begin{frame}{Foundation membership}
+\begin{frame}{Sindhu's slide 2}
 \end{frame}
-
-\begin{frame}{Make Titles Informative.}
-\end{frame}
-
 
 
 \section*{Summary}
@@ -243,33 +265,18 @@
 % All of the following is optional and typically not needed. 
 \appendix
 \section<presentation>*{\appendixname}
-\subsection<presentation>*{For Further Reading}
+\subsection<presentation>*{Resources}
 
 \begin{frame}[allowframebreaks]
-  \frametitle<presentation>{For Further Reading}
+  \frametitle<presentation>{Resources}
     
   \begin{thebibliography}{10}
-    
-  \beamertemplatebookbibitems
-  % Start with overview books.
 
-  \bibitem{Author1990}
-    A.~Author.
-    \newblock {\em Handbook of Everything}.
-    \newblock Some Press, 1990.
- 
-    
-  \beamertemplatearticlebibitems
-  % Followed by interesting articles. Keep the list short. 
+  \bibitem{code}
+    Code of conduct:
+    \newblock https://wiki.gnome.org/CodeOfConduct/
 
-  \bibitem{Someone2000}
-    S.~Someone.
-    \newblock On this and that.
-    \newblock {\em Journal of This and That}, 2(1):50--100,
-    2000.
   \end{thebibliography}
 \end{frame}
 
 \end{document}
-
-

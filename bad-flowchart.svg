@@ -9,39 +9,41 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="446.34375"
+   height="931.36707"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="bad-flowchart.svg">
+   sodipodi:docname="bad-flowchart.pdf">
   <defs
      id="defs4">
     <marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow2Mend"
-       style="overflow:visible;">
+       style="overflow:visible">
       <path
          id="path4044"
-         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.6) rotate(180) translate(0,0)" />
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow2Lend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow2Lend"
-       style="overflow:visible;">
+       style="overflow:visible">
       <path
          id="path4038"
-         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(1.1) rotate(180) translate(1,0)" />
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
     </marker>
   </defs>
   <sodipodi:namedview
@@ -51,11 +53,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.87954774"
-     inkscape:cx="198.45053"
-     inkscape:cy="552.82144"
+     inkscape:zoom="1.422632"
+     inkscape:cx="114.92218"
+     inkscape:cy="381.33924"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3044"
      showgrid="false"
      showguides="true"
      inkscape:window-width="2560"
@@ -63,10 +65,16 @@
      inkscape:window-x="0"
      inkscape:window-y="49"
      inkscape:window-maximized="1"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false"
+     borderlayer="true">
     <sodipodi:guide
        orientation="1,0"
-       position="69.353825,670.79929"
+       position="-79.521174,610.33542"
        id="guide3829" />
   </sodipodi:namedview>
   <metadata
@@ -84,7 +92,9 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-148.875,-60.53125)"
+     style="display:none">
     <rect
        style="fill:#f5f5f4;fill-opacity:1;fill-rule:evenodd;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2985"
@@ -190,5 +200,141 @@
            y="927.21625"
            id="tspan3779">Patch accepted</tspan></text>
     </g>
+  </g>
+  <g
+     transform="translate(-148.875,-60.53125)"
+     id="g3044"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1 copy">
+    <rect
+       ry="11.255211"
+       rx="11.255211"
+       y="63.022232"
+       x="151.36473"
+       height="146.31775"
+       width="441.36502"
+       id="rect3046"
+       style="fill:#f5f5f4;fill-opacity:1;fill-rule:evenodd;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3048"
+       y="147.21626"
+       x="223.00427"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3050"
+         y="147.21626"
+         x="223.00427"
+         sodipodi:role="line">Find a problem</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3068"
+       d="m 371.9992,234.55953 0,59.12129"
+       style="fill:#6b8e9f;fill-opacity:1;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+    <path
+       style="fill:#6b8e9f;fill-opacity:1;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 371.9992,494.55953 0,59.12129"
+       id="path3070"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#f5f5f4;fill-opacity:1;fill-rule:evenodd;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3076"
+       width="441.36502"
+       height="146.31775"
+       x="151.36473"
+       y="583.02228"
+       rx="11.255211"
+       ry="11.255211" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="228.69763"
+       y="667.21631"
+       id="text3078"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="228.69763"
+         y="667.21631"
+         id="tspan3080">Patch rejected</tspan></text>
+    <g
+       transform="translate(-500,-259.99994)"
+       id="g3082">
+      <rect
+         style="fill:#f5f5f4;fill-opacity:1;fill-rule:evenodd;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3084"
+         width="441.36502"
+         height="146.31775"
+         x="151.36473"
+         y="843.02222"
+         rx="11.255211"
+         ry="11.255211" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="218.38513"
+         y="927.21625"
+         id="text3086"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="218.38513"
+           y="927.21625"
+           id="tspan3088">Patch accepted</tspan></text>
+    </g>
+    <rect
+       ry="11.255211"
+       rx="11.255211"
+       y="583.02228"
+       x="651.36475"
+       height="146.31775"
+       width="441.36502"
+       id="rect3092"
+       style="fill:#f5f5f4;fill-opacity:1;fill-rule:evenodd;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3094"
+       y="667.21631"
+       x="729.22498"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3096"
+         y="667.21631"
+         x="729.22498"
+         sodipodi:role="line">Patch fixed up</tspan></text>
+    <g
+       id="g3052"
+       transform="translate(-0.012902,0)">
+      <rect
+         ry="11.255211"
+         rx="11.255211"
+         y="323.02222"
+         x="151.36473"
+         height="146.31775"
+         width="441.36502"
+         id="rect3054"
+         style="fill:#f5f5f4;fill-opacity:1;fill-rule:evenodd;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3056"
+         y="407.21625"
+         x="219.94763"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3058"
+           y="407.21625"
+           x="219.94763"
+           sodipodi:role="line">Submit a patch</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3098"
+       d="M 121.96975,415.44746 -106.86481,553.68082"
+       style="fill:#6b8e9f;fill-opacity:1;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#6b8e9f;fill-opacity:1;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="M 622.07317,415.44746 850.90773,553.68082"
+       id="path3106"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
