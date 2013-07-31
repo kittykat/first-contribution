@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="446.34375"
-   height="931.36707"
+   width="1446.365"
+   height="671.31781"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="bad-flowchart.pdf">
+   sodipodi:docname="bad-flowchart.svg">
   <defs
      id="defs4">
     <marker
@@ -53,9 +53,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.422632"
-     inkscape:cx="114.92218"
-     inkscape:cy="381.33924"
+     inkscape:zoom="0.71131598"
+     inkscape:cx="579.78632"
+     inkscape:cy="-244.23875"
      inkscape:document-units="px"
      inkscape:current-layer="g3044"
      showgrid="false"
@@ -74,7 +74,7 @@
      borderlayer="true">
     <sodipodi:guide
        orientation="1,0"
-       position="-79.521174,610.33542"
+       position="-627.00686,-781.64981"
        id="guide3829" />
   </sodipodi:namedview>
   <metadata
@@ -85,127 +85,16 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-148.875,-60.53125)"
-     style="display:none">
-    <rect
-       style="fill:#f5f5f4;fill-opacity:1;fill-rule:evenodd;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect2985"
-       width="441.36502"
-       height="146.31775"
-       x="151.36473"
-       y="63.022232"
-       rx="11.255211"
-       ry="11.255211" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="223.00427"
-       y="147.21626"
-       id="text2987"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="223.00427"
-         y="147.21626"
-         id="tspan2991">Find a problem</tspan></text>
-    <g
-       id="g3817">
-      <rect
-         style="fill:#f5f5f4;fill-opacity:1;fill-rule:evenodd;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect3763"
-         width="441.36502"
-         height="146.31775"
-         x="151.36473"
-         y="323.02222"
-         rx="11.255211"
-         ry="11.255211" />
-      <text
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="219.94763"
-         y="407.21625"
-         id="text3765"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           x="219.94763"
-           y="407.21625"
-           id="tspan3767">Submit a patch</tspan></text>
-    </g>
-    <g
-       id="g3807">
-      <rect
-         ry="11.255211"
-         rx="11.255211"
-         y="583.02228"
-         x="151.36473"
-         height="146.31775"
-         width="441.36502"
-         id="rect3769"
-         style="fill:#f5f5f4;fill-opacity:1;fill-rule:evenodd;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3771"
-         y="667.21625"
-         x="276.68591"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           id="tspan3773"
-           y="667.21625"
-           x="276.68591"
-           sodipodi:role="line">Follow up</tspan></text>
-    </g>
-    <path
-       style="fill:#6b8e9f;fill-opacity:1;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
-       d="m 371.9992,234.55953 0,59.12129"
-       id="path3831"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4646"
-       d="m 371.9992,494.55953 0,59.12129"
-       style="fill:#6b8e9f;fill-opacity:1;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
-    <path
-       style="fill:#6b8e9f;fill-opacity:1;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
-       d="m 371.9992,754.55953 0,59.12129"
-       id="path4648"
-       inkscape:connector-curvature="0" />
-    <g
-       transform="translate(-1.2109375e-6,0.0545626)"
-       id="g3822-0">
-      <rect
-         style="fill:#f5f5f4;fill-opacity:1;fill-rule:evenodd;stroke:#6b8e9f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect3775-9"
-         width="441.36502"
-         height="146.31775"
-         x="151.36473"
-         y="843.02222"
-         rx="11.255211"
-         ry="11.255211" />
-      <text
-         xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="218.38513"
-         y="927.21625"
-         id="text3777-2"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           x="218.38513"
-           y="927.21625"
-           id="tspan3779">Patch accepted</tspan></text>
-    </g>
-  </g>
-  <g
-     transform="translate(-148.875,-60.53125)"
+     transform="translate(351.13527,-60.522232)"
      id="g3044"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1 copy">
+     inkscape:label="Layer 1 copy"
+     style="display:inline">
     <rect
        ry="11.255211"
        rx="11.255211"
